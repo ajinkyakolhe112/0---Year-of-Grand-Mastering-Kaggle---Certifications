@@ -12,8 +12,8 @@
   Average Data Scientist        |![](https://geps.dev/progress/50) Scientist    | ![](https://geps.dev/progress/50) Engineer 
   Extremist Data Scientist      |![](https://geps.dev/progress/0) Scientist     | ![](https://geps.dev/progress/100) Engineer
   Extremist Data Scientist      |![](https://geps.dev/progress/100) Scientist   | ![](https://geps.dev/progress/0) Engineer  
-  Theoretical Data Scientist    |![](https://geps.dev/progress/20) Scientist    | ![](https://geps.dev/progress/80) Engineer
-  Hacker Data Scientist         |![](https://geps.dev/progress/80) Scientist    | ![](https://geps.dev/progress/20) Engineer 
+  Theoretical Data Scientist    |![](https://geps.dev/progress/80) Scientist    | ![](https://geps.dev/progress/20) Engineer
+  Just Hacker Data Scientist    |![](https://geps.dev/progress/20) Scientist    | ![](https://geps.dev/progress/80) Engineer 
   Ideal Data Scientist          |![](https://geps.dev/progress/80) Scientist    | ![](https://geps.dev/progress/80) Engineer 
 - My **focus in 2024 is on Engineering side of Data Science**. Hence will focus more on solving Kaggle Problems, Other Business Problems etc...
 ----
