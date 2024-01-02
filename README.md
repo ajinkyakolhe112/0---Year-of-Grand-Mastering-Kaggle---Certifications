@@ -8,7 +8,7 @@
   - We need to master both, not just one. Naturally we have one dominant style, so for mastery, eventually we need to master both styles
   - Data Scientist skill
 
-   | Type of Data Scientist | Scientist   | Engineer       |
+| Type of Data Scientist | Scientist   | Engineer       |
     |---| ----------- | ------------ |
   Average Data Scientist        |![](https://geps.dev/progress/50) Scientist    | ![](https://geps.dev/progress/50) Engineer 
   Extremist Data Scientist      |![](https://geps.dev/progress/0) Scientist     | ![](https://geps.dev/progress/100) Engineer
