@@ -7,6 +7,7 @@
   - **Engineering** is concerned with   - *How & Hacking with Code & Applications*
   - We need to master both, not just one. Naturally we have one dominant style, so for mastery, eventually we need to master both styles
   - Data Scientist skill
+
    | Type of Data Scientist | Scientist   | Engineer       |
     |---| ----------- | ------------ |
   Average Data Scientist        |![](https://geps.dev/progress/50) Scientist    | ![](https://geps.dev/progress/50) Engineer 
@@ -25,4 +26,4 @@
 3: Azure Data Science Associate             | ![](https://geps.dev/progress/0) | 
 4: Kaggle **GrandMaster**                      | ![](https://geps.dev/progress/0) |
 
-Even though Pytorch wins over Tensorflow, but Tensorflow Certificate is useful for getting a job. Pytorch Certificate hasn't been launched yet.
+Even though Pytorch wins over Tensorflow, but Tensorflow Certificate is useful for getting a job. Also Pytorch Certificate hasn't been launched yet.
