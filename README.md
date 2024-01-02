@@ -6,7 +6,7 @@
   - **Science** is concerned with       - *Theory, How & Why*
   - **Engineering** is concerned with   - *How & Hacking with Code & Applications*
   - We need to master both, not just one. Naturally we have one dominant style, so for mastery, eventually we need to master both styles
-  - Data Scientist skill
+  - Different Types of Data Scientists
 
 | Type of Data Scientist | Scientist   | Engineer       |
     |---| ----------- | ------------ |
