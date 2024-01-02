@@ -1,6 +1,6 @@
 
 ## Mastering Deep Learning in 2024
-
+- Continuing the journey from [Mastering Deep Learning from 2023](https://github.com/ajinkyakolhe112/Mastering-Deep-Learning-in-2023)
 - Deep Learning is **"both, a Science and an Engineering domain"**
   - Both domains have completely different & generally philosphies
   - **Science** is concerned with       - *Theory, How & Why*
@@ -16,7 +16,7 @@
     ![](https://geps.dev/progress/80) Scientist   | ![](https://geps.dev/progress/20) Engineer  |
 - My **focus in 2024 in on Engineering side of Data Science**. Hence will focus more on solving Kaggle Problems, Other Business Problems etc...
 ----
-### Goals
+### 2024 Goals
 |                            | Progress                           |
 | ------------------------------------- | ---------------------------------- |
 1: Tensorflow Developer Certificate        | ![](https://geps.dev/progress/0) |
