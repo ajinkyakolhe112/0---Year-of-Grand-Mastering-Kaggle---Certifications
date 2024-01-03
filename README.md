@@ -9,7 +9,7 @@
   - Different Types of Data Scientists
 
 | Type of Data Scientist | Scientist   | Engineer       |
-    |---| ----------- | ------------ |
+|---| ----------- | ------------ |
   Average Data Scientist        |![](https://geps.dev/progress/50) Scientist    | ![](https://geps.dev/progress/50) Engineer 
   Extremist Data Scientist      |![](https://geps.dev/progress/0) Scientist     | ![](https://geps.dev/progress/100) Engineer
   Extremist Data Scientist      |![](https://geps.dev/progress/100) Scientist   | ![](https://geps.dev/progress/0) Engineer  
