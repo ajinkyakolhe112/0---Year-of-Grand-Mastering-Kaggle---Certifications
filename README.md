@@ -15,6 +15,6 @@
 2: Google Cloud Machine Learning Engineer   | ![](https://geps.dev/progress/0) | 
 3: Azure Data Science Associate             | ![](https://geps.dev/progress/0) | 
 4: Kaggle **GrandMaster Rank**              | ![](https://geps.dev/progress/0) |
-5: NLP with Deep Learning                   | ![](https://geps.dev/progress/0) |
+5: NLP with Huggingface*                   | ![](https://geps.dev/progress/10) |
 
 Even though Pytorch wins over Tensorflow, but Tensorflow Certificate is useful for getting a job. Also Pytorch Certificate hasn't been launched yet.
