@@ -5,29 +5,45 @@
 ## Improvements from '2023 Learning Experience'
 Details: [last year's Computer Vision](https://github.com/ajinkyakolhe112/Mastering-Deep-Learning-in-2023)
 Things I am improving
-  - Focus on mastering one library which has standarized all transformer models, for coding of end to end projects. (Last year's pain point)
-  - Do more Kaggle competitions compared to courses. (10 courses & 3 competitions last year, Aiming for 10+ competitions this year)
-  - Visualize model internals to understand it better. (Didn't do this part last year)
-  - Understand maths aspect of neural networks. (Didn't do this part last year.)
+  - Focus on high level libraries like `transformers` and `diffusers` over `pytorch`
+    - Advantage: Few lines to have end to end pipeline
+    - Advantage: Getting to solution quickly instead of 2 weeks of implementing from scratch
+  - Do more Kaggle competitions compared to courses.    (10 courses & 3 competitions last year, Aiming for 10+ competitions this year)
+  - Visualize model internals to understand it better.  (Didn't do this part last year)
+  - Understand maths aspect of neural networks.         (Didn't do this part last year.)
   - Continue coding in pytorch, build code cookbook for experimentation
 
-## NLP Landscape's two entry paths
+## NLP - NLP Landscape's two entry paths
 - NLP Landscape has two entry points, one slow, long & easier path & other short but steep path
   - Long & Slow path:   DL Basics -> Simple NN -> CNN -> RNN -> LSTM -> Word2Vec -> Attention -> LLMs
-  - Short * Steep path: DL Basics -> **Attention is all you need** -> LLMs
+  - Short & Steep path: DL Basics -> **Attention is all you need** -> LLMs
     - Everything in NLP & CV is building on top of this single paper. Highest citations, higest used architecture, is most varied kinds of problems.
     - Understand this thoroughly, because everything builds on this
 
-## Short but Steep Path: Base Essentials
-|   Type                |    Details                        | Progress                          |
-| ---------             | ----------                        | --------------------------------  |
-1: Course               | Huggingface NLP                   | ![](https://geps.dev/progress/10) |
-2: Kaggle Competition   | Disaster Tweet Classification     | ![](https://geps.dev/progress/01)  |
-3: Research Paper       | Attention is all you need         | ![](https://geps.dev/progress/10)  |
+## Quarter 1 - Things Learned
 
-### Backlog of Resources: Important will be prioratized on need basis
+### NLP - 5 STAR RESOURCES
+|   Type                |    Details                        | Progress                            |
+| ---------             | ----------                        | --------------------------------    |
+1: Course               | Huggingface NLP                   | ![](https://geps.dev/progress/100)  |
+2: Kaggle Competition   | Disaster Tweet Classification     | ![](https://geps.dev/progress/100)  |
+3: Research Paper       | Attention is all you need         | ![](https://geps.dev/progress/100)  |
+4: Research Paper       | One Model to learn them all                                           | ![](https://geps.dev/progress/100)  |
+5: Youtube Video        | 3Blue1Brown: Attention in transformers, visually explained            | ![](https://geps.dev/progress/100)  |
+6: Youtube Video        | 3Blue1Brown: But what is a GPT? Visual intro to transformers          | ![](https://geps.dev/progress/100)  |
+7: Youtube Video        | Campus X: Epic History of Large Language Models                       | ![](https://geps.dev/progress/100)  |
+8: Youtube Video        | Campus X: Self Attention          | ![](https://geps.dev/progress/100)  |
+9: Youtube Video        | Campus X: Attention               | ![](https://geps.dev/progress/100)  |
+
+### Computer Vision - 5 STAR RESOURCES
+|   Type                |    Details                        | Progress                            |
+| ---------             | ----------                        | --------------------------------    |
+1: Course               | Huggingface timm                    | ![](https://geps.dev/progress/100)  |
+2: Course               | Huggingface diffusers               | ![](https://geps.dev/progress/100)  |
+
+### Backlog of Resources: 
+Important will be prioratized on need basis
 #### 1. Courses
-   1. Huggingface NLP Course
    2. [CS25: Transformers United](https://web.stanford.edu/class/cs25/prev_years/2023_winter/index.html)
    3. [Gen AI with LLM](https://www.coursera.org/learn/generative-ai-with-llms)
    4. [CS224n Course](https://web.stanford.edu/class/cs224n/index.html#coursework)
