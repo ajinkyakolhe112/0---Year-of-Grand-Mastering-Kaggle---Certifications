@@ -17,7 +17,7 @@ Things I am improving
 - NLP Landscape has two entry points, one slow, long & easier path & other short but steep path
   - Long & Slow path:   DL Basics -> Simple NN -> CNN -> RNN -> LSTM -> Word2Vec -> Attention -> LLMs
   - Short & Steep path: DL Basics -> **Attention is all you need** -> LLMs
-    - Everything in NLP & CV is building on top of this single paper. Highest citations, higest used architecture, is most varied kinds of problems.
+    - Everything in NLP & CV is building on top of this single paper. Highest citations, highest used architecture, is most varied kinds of problems.
     - Understand this thoroughly, because everything builds on this
 
 ## Quarter 1 - Things Learned
@@ -34,6 +34,7 @@ Things I am improving
 7: Youtube Video        | Campus X: Epic History of Large Language Models                       | ![](https://geps.dev/progress/100)  |
 8: Youtube Video        | Campus X: Self Attention          | ![](https://geps.dev/progress/100)  |
 9: Youtube Video        | Campus X: Attention               | ![](https://geps.dev/progress/100)  |
+10: Course              | School of AI - ERA3               | ![](https://geps.dev/progress/03)   |
 
 ### Computer Vision - 5 STAR RESOURCES
 |   Type                |    Details                        | Progress                            |
@@ -42,3 +43,18 @@ Things I am improving
 2: Course               | Huggingface diffusers               | ![](https://geps.dev/progress/100)  |
 3: Course               | Huggingface Community Vision Course | ![](https://geps.dev/progress/100)  |
 4: Course               | Zero to Mastery Tensorflow          | ![](https://geps.dev/progress/100)  |
+
+### 1.2. Kaggle Competitions - 3 Competitions
+
+
+| Competition                                 | Progress                           |
+| ---------------------------------------     | ------------------------------------ |
+| Cats vs Dogs - End to End Pipeline          | ![](https://geps.dev/progress/100) |
+| 10 Small Objects Recognition(CIFAR10)       | ![](https://geps.dev/progress/100) |
+| Imagenet Classification                     | ![](https://geps.dev/progress/100) |
+
+
+### Corporate Trainings
+1. Data Engineering for `MTech Students` for `LTI Mindtree`
+2. Application Development for `MTech Students` for `LTI Mindtree`
+3. How Developers can learn Artificial Intelligence - a `DevRel Talk`
