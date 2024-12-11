@@ -1,5 +1,6 @@
 # How I am learning Artificial Intelligence in 2024
 - Study `Natural Language Processing`
+  - & continue learning Image Generation with `Diffusers`
 - Apply knowledge to projects
 
 ## Improvements from '2023 Learning Experience'
@@ -12,9 +13,21 @@ Things I am improving
   - Continue coding in pytorch, build code cookbook for experimentation
   - Visualize model internals to understand it better.  (Didn't do this part last year)
   - Understand maths aspect of neural networks.         (Didn't do this part last year.)
-  
-## NLP - NLP Landscape's two entry paths
-- NLP Landscape has two entry points, one slow, long & easier path & other short but steep path
+
+## Lessons Learned in 2024
+- Landscape of standard LLM architectures, once memorized, a lot of problems become a lot simpler
+- Projects are the best way to learn. Deep Learning is a field of experimentation, not theoratical field. That is why projects are the best way to learn.
+- State of the art models require bigger GPUs. Free T4 GPU has 16GB of VRAM, can only store 8 Billion parameter model. 
+- LLama models are the best models open source AI models, which are as commercial AI models like GPT-4 and Google AI
+
+## Remaining Study Topics
+- Research Papers on diffusion models & transformer models optimizations
+- Reinforcement Learning
+- Custom Dataset building & fine tuning models
+- Model Optimization 
+
+## NLP Study Plan
+NLP Landscape's two entry paths. One slow, long & easier path & other short but steep path
   - Long & Slow path:   DL Basics -> Simple NN -> CNN -> RNN -> LSTM -> Word2Vec -> Attention -> LLMs
   - Short & Steep path: DL Basics -> **Attention is all you need** -> LLMs
     - Everything in NLP & CV is building on top of this single paper. Highest citations, highest used architecture, is most varied kinds of problems.
@@ -34,7 +47,12 @@ Things I am improving
 7: Youtube Video        | Campus X: Epic History of Large Language Models                       | ![](https://geps.dev/progress/100)  |
 8: Youtube Video        | Campus X: Self Attention          | ![](https://geps.dev/progress/100)  |
 9: Youtube Video        | Campus X: Attention               | ![](https://geps.dev/progress/100)  |
-10: Course              | School of AI - ERA3               | ![](https://geps.dev/progress/03)   |
+11: Udemy Course        | LLM Application Dev with Langchain| ![](https://geps.dev/progress/10)   |
+
+### Tensorflow Certification Exam 
+- Good Certificate for knowledge validation
+- But exam has closed now. No pytorch certification. Currently there is no good gap.
+- Studied, learned it, but `Failed` because things like getting accuracy above a certain number. 
 
 ### Computer Vision - 5 STAR RESOURCES
 |   Type                |    Details                        | Progress                            |
@@ -52,6 +70,20 @@ Things I am improving
 | Cats vs Dogs - End to End Pipeline          | ![](https://geps.dev/progress/100) |
 | 10 Small Objects Recognition(CIFAR10)       | ![](https://geps.dev/progress/100) |
 | Imagenet Classification                     | ![](https://geps.dev/progress/100) |
+
+
+### (Pivot to Projects) Projects -> Applications for a Industry
+- Interesting industries as application
+- I love books. So projects / industries around books would be - Book to Illustrated Images or Book's adaption to Film / Tv Series. 
+- I also love video games. Any application in video game building pipeline
+  - Found out in further research, Video Game Industry is bigger than Books + Movies + Tv Series + Music. 
+- `Harry Potter` - immersive book or video game or a film
+- `Unreal Engine 5` for `Video Games`
+- `Screenplays` for `Film making of Harry Potter`
+- I have loved `Dune` too. So studied `Screenplay` of Dune as well
+- `Mahabharat Video Game`
+- Researching `Mahabharat`
+- Reading `Harry Potter series`
 
 
 ### Corporate Trainings
