@@ -1,9 +1,9 @@
 # How I am learning Artificial Intelligence in 2024
-- Study `Natural Language Processing`
+- Goal `Natural Language Processing`
   - & continue learning Image Generation with `Diffusers`
 - Apply knowledge to projects
 
-## Improvements from '2023 Learning Experience'
+### Improvements from '2023 Learning Experience'
 Details: [last year's Computer Vision](https://github.com/ajinkyakolhe112/Mastering-Deep-Learning-in-2023)
 Things I am improving
   - Focus on high level libraries like `transformers` and `diffusers` over `pytorch`
@@ -14,13 +14,13 @@ Things I am improving
   - Visualize model internals to understand it better.  (Didn't do this part last year)
   - Understand maths aspect of neural networks.         (Didn't do this part last year.)
 
-## Lessons Learned in 2024
+### Lessons Learned in 2024
 - Landscape of standard LLM architectures, once memorized, a lot of problems become a lot simpler
 - Projects are the best way to learn. Deep Learning is a field of experimentation, not theoratical field. That is why projects are the best way to learn.
 - State of the art models require bigger GPUs. Free T4 GPU has 16GB of VRAM, can only store 8 Billion parameter model. 
 - LLama models are the best models open source AI models, which are as commercial AI models like GPT-4 and Google AI
 
-## Remaining Study Topics
+### Remaining Study Topics
 - Research Papers on diffusion models & transformer models optimizations
 - Reinforcement Learning
 - Custom Dataset building & fine tuning models
@@ -47,12 +47,7 @@ NLP Landscape's two entry paths. One slow, long & easier path & other short but 
 7: Youtube Video        | Campus X: Epic History of Large Language Models                       | ![](https://geps.dev/progress/100)  |
 8: Youtube Video        | Campus X: Self Attention          | ![](https://geps.dev/progress/100)  |
 9: Youtube Video        | Campus X: Attention               | ![](https://geps.dev/progress/100)  |
-11: Udemy Course        | LLM Application Dev with Langchain| ![](https://geps.dev/progress/10)   |
-
-### Tensorflow Certification Exam 
-- Good Certificate for knowledge validation
-- But exam has closed now. No pytorch certification. Currently there is no good gap.
-- Studied, learned it, but `Failed` because things like getting accuracy above a certain number. 
+11: Udemy Course        | LLM Application Dev with Langchain| ![](https://geps.dev/progress/10)   | 
 
 ### Computer Vision - 5 STAR RESOURCES
 |   Type                |    Details                        | Progress                            |
@@ -73,18 +68,23 @@ NLP Landscape's two entry paths. One slow, long & easier path & other short but 
 
 
 ### (Pivot to Projects) Projects -> Applications for a Industry
-- Interesting industries as application
-- I love books. So projects / industries around books would be - Book to Illustrated Images or Book's adaption to Film / Tv Series. 
-- I also love video games. Any application in video game building pipeline
-  - Found out in further research, Video Game Industry is bigger than Books + Movies + Tv Series + Music. 
-- `Harry Potter` - immersive book or video game or a film
-- `Unreal Engine 5` for `Video Games`
-- `Screenplays` for `Film making of Harry Potter`
-- I have loved `Dune` too. So studied `Screenplay` of Dune as well
-- `Mahabharat Video Game`
-- Researching `Mahabharat`
-- Reading `Harry Potter series`
+- Studying Industries as application of Artificial Intelligence. (Interesting, Relevant for Future industries)
+  - I also love **Video Games**. Any application in video game building pipeline. Found out in further research, Video Game Industry is bigger than Books + Movies + Tv Series + Music.
+  - **Augmented Reality**. AR Glasses in less than 50k, cheaper than smartphone & TV.
+  - I love **books**. So projects / industries around books would be - Book to Illustrated Images or Book's adaption to Film / Tv Series. 
 
+- Learning `Unreal Engine 5` for `Video Games`
+  - [ ] Future: Build `Video Game` for `Mahabharat`
+  - [ ] Future: Build `Video Game` like `Age of Empires for India`
+- Studying `Screenplays`
+  - I have loved `Dune`. So studied `Screenplay` of Dune as well
+  - For `Film making of Harry Potter`
+- `Harry Potter` - immersive book or video game or a film
+
+### Certifications
+- [ ] Tensorflow Certification Exam (Failed)
+- [x] Google Cloud Data Engineer Certification (Passed)
+- [x] Google Cloud Architect Certification     (Passed)
 
 ### Corporate Trainings
 1. Data Engineering for `MTech Students` for `LTI Mindtree`
